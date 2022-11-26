@@ -1,0 +1,226 @@
+_______________________________________________________________________________
+| ID comanda: 0
+| ID Client: 0
+| Plasata in data de: 2022-05-26 la 23:33:16
+| Contine: 
+Egg Noodles with Brown Butter and Feta 
+Pasta with Meat Sauce 
+|       -Egg Noodles with Brown Butter and Feta ;    PRET: 11
+|       -Pasta with Meat Sauce ;    PRET: 53
+|
+| TOTAL: 82
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 1
+| ID Client: 0
+| Plasata in data de: 2022-05-26 la 23:33:36
+| Contine: 
+Egg Noodles with Brown Butter and Feta 
+Pasta with Meat Sauce 
+|       -Egg Noodles with Brown Butter and Feta ;    PRET: 11
+|       -Pasta with Meat Sauce ;    PRET: 53
+|
+| TOTAL: 64
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 2
+| ID Client: 0
+| Plasata in data de: 2022-05-26 la 23:37:34
+| Contine: 
+Salmon Caviar Torte 
+|       -Salmon Caviar Torte ;    PRET: 38
+|
+| TOTAL: 36
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 3
+| ID Client: 0
+| Plasata in data de: 2022-05-26 la 23:37:39
+| Contine: 
+Salmon Caviar Torte 
+|       -Salmon Caviar Torte ;    PRET: 38
+|
+| TOTAL: 38
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 4
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:16:52
+| Contine: 
+Linguine with Clams and Wild Mushrooms 
+|       -Linguine with Clams and Wild Mushrooms ;    PRET: 40
+|
+| TOTAL: 40
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 5
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:34:19
+| Contine: 
+Thai Chicken Pasta 
+|       -Thai Chicken Pasta ;    PRET: 96
+|
+| TOTAL: 96
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 6
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:36:31
+| Contine: 
+Spicy Tuna "Tarts" with Stuffed Tomatoes 
+|       -Spicy Tuna "Tarts" with Stuffed Tomatoes ;    PRET: 92
+|
+| TOTAL: 92
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 7
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:39:57
+| Contine: 
+Zinfandel-Glazed Shallots 
+|       -Zinfandel-Glazed Shallots ;    PRET: 39
+|
+| TOTAL: 39
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 8
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:44:41
+| Contine: 
+Chicken-Cranberry Hash 
+|       -Chicken-Cranberry Hash ;    PRET: 43
+|
+| TOTAL: 43
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 9
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:49:07
+| Contine: 
+Coriander-Herb Spice Rub 
+|       -Coriander-Herb Spice Rub ;    PRET: 51
+|
+| TOTAL: 51
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 10
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:50:51
+| Contine: 
+Phyllo Nests with Strawberries and Honey 
+Sugarcane Marinade 
+New England Blackberry "Torte" 
+|       -Phyllo Nests with Strawberries and Honey ;    PRET: 61
+|       -Sugarcane Marinade ;    PRET: 91
+|       -New England Blackberry "Torte" ;    PRET: 14
+|
+| TOTAL: 166
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 11
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:52:38
+| Contine: 
+Herbed Biscuit Strips 
+Salmon Wrapped Poached Eggs 
+Goat Cheese in Grape Leaves with Tomato and Olive Salad 
+|       -Herbed Biscuit Strips ;    PRET: 19
+|       -Salmon Wrapped Poached Eggs ;    PRET: 19
+|       -Goat Cheese in Grape Leaves with Tomato and Olive Salad ;    PRET: 17
+|
+| TOTAL: 55
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 12
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:54:35
+| Contine: 
+Sausage and Mushroom Penne Gratin 
+Orange Sweet Rolls 
+|       -Sausage and Mushroom Penne Gratin ;    PRET: 45
+|       -Orange Sweet Rolls ;    PRET: 93
+|
+| TOTAL: 175
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 13
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:54:48
+| Contine: 
+Sausage and Mushroom Penne Gratin 
+Orange Sweet Rolls 
+|       -Sausage and Mushroom Penne Gratin ;    PRET: 45
+|       -Orange Sweet Rolls ;    PRET: 93
+|
+| TOTAL: 138
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 14
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 00:58:11
+| Contine: 
+Frozen Lime Torte with Summer Fruit 
+|       -Frozen Lime Torte with Summer Fruit ;    PRET: 69
+|
+| TOTAL: 69
+|_______________________________________________________________________________
+
+
+
+_______________________________________________________________________________
+| ID comanda: 15
+| ID Client: 0
+| Plasata in data de: 2022-05-27 la 01:02:34
+| Contine: 
+Lemon Chicken 
+Santori 
+|       -Lemon Chicken ;    PRET: 12
+|       -Santori ;    PRET: 68
+|
+| TOTAL: 80
+|_______________________________________________________________________________
+
+
+
